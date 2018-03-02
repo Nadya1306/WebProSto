@@ -1,0 +1,27 @@
+{
+  "name": "webprosto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadya1306/WebProSto.git"
+  },
+  "author": "nadiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadya1306/WebProSto/issues"
+  },
+  "homepage": "https://github.com/Nadya1306/WebProSto#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
